@@ -77,24 +77,6 @@ const App = () => {
           className="w-xl h-xl"
         />
       </div>
-      <div className="shadow-md w-full h-20 bg-gray-100 mt-8">
-        <footer>
-          <ul className="flex justify-around items-center">
-            <li>
-              <a href="/">HOME</a>
-            </li>
-            <li>
-              <a href="/">MENU</a>
-            </li>
-            <li>
-              <a href="/">ABOUT</a>
-            </li>
-            <li>
-              <a href="/">CONTACT</a>
-            </li>
-          </ul>
-        </footer>
-      </div>
     </div>
   );
 };
