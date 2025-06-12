@@ -16,7 +16,7 @@ const MainLayout = () => {
         <img
           src="logo-removebg-preview.png"
           alt="Logo"
-          className="rounded-md h-16 w-20"
+          className="rounded-md h-16 w-26"
         />
 
         <nav>
